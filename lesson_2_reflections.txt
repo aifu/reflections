@@ -14,3 +14,11 @@ Q.What are some situations when branches would be helpful in keeping your histor
 
 when you are trying to experiment with different features
 leave one branch to sharing publicly, and one branch to experiment with another different feature
+
+Q.How do the diagrams help you visualize the branch structure?
+
+You can understand the reachability
+
+Q.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The two changes added together. You can know the reachability. It's easy to understand which commit to focus on.
