@@ -1,0 +1,7 @@
+Q.What happens when you initialize a repository? Why do you need to do it?
+
+you make a directory a git repository, there will be a .git file added.
+
+Q.How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+it's an in-between stage so that you can select what changes to be made in a commit
