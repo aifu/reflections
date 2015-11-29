@@ -1,1 +1,12 @@
 Q.When would you want to make a remote repository than keeping all your work local?
+
+when collaborating with someone else, or show the commit changes to the public
+
+Q.Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+You can choose the exact commits/branches to show to the public.
+Changes can be made directly on GitHub, but better to pull. 
+
+Q.Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks is cloning a repository between github accounts, clones is making a copy of a repository into a diff rep, branches can only be made inside a single rep
