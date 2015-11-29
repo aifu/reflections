@@ -22,3 +22,7 @@ You can understand the reachability
 Q.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The two changes added together. You can know the reachability. It's easy to understand which commit to focus on.
+
+Q.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+it's useful if you have tons of code lines, git doesn't always know how to fix conflicts
